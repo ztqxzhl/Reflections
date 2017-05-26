@@ -7,8 +7,9 @@ The staging area keeps some individual parts of changes to commit to
 repository together. It offers the integrity of logic.
 
 
-How can you use the staging area to make sure you have one commit per logical
+【3】How can you use the staging area to make sure you have one commit per logical
 change?
+make a commit before a new logic start.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
