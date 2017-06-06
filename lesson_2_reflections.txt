@@ -15,10 +15,15 @@ make a commit before a new logic start.
 organized? How would branches help?
 When tring a new version from a old commit, meanwhile keep the old version of the change
 
-How do the diagrams help you visualize the branch structure?
+【5】How do the diagrams help you visualize the branch structure?
+the diagram shows the relationsships between branches, and the parent-child
+relationship between commits.
 
-What is the result of merging two branches together? Why do we represent it in
+【6】What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Two branch's commit will be mixed into one branch, the git log will contains
+all of the two branch's commit, and the combined code and file contains all
+changes.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
