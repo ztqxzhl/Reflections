@@ -25,8 +25,11 @@ Two branch's commit will be mixed into one branch, the git log will contains
 all of the two branch's commit, and the combined code and file contains all
 changes.
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
+【7】What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+The automatic merging can't resolve conflict, but will merges the effective
+changes. If always merge manually, will deal with large amounts of changes,but
+resolve conflicts precisely.
 
 
 
