@@ -1,7 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+    When I change working environment, I'd like clone from github rather than
+copy the project from one computer to another.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
