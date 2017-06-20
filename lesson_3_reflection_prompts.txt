@@ -19,7 +19,8 @@ are different versions of the same repository.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It's makes me working with lastest content of remote repository, easy to
+ compare and avoid conflict.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
