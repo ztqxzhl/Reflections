@@ -32,4 +32,6 @@ cooperate.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    In one function, I'd rather make more step than one commit to finish it.
+So separate to a new branch and commit entirely will be more integrately. The
+only benefit of make changes in master is simply, not need the pull request.
